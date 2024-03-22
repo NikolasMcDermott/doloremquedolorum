@@ -1,0 +1,21 @@
+{
+  "name": "doloremquedolorum",
+  "version": "1.0.0",
+  "description": "A list of error codes in Mysql",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NikolasMcDermott/doloremquedolorum.git"
+  },
+  "keywords": [
+    "mysql",
+    "nihil",
+    "ut",
+    "voluptatibus",
+    "cumque",
+    "ipsum"
+  ],
+  "author": "TavaresLang",
+  "license": "MIT",
+  "typings": "index.d.ts"
+}
